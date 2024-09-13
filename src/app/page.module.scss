@@ -1,0 +1,32 @@
+.home {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 40%;
+}
+
+.home:hover {
+    opacity: 100%;
+}
+
+.home_header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.home_nav {
+    display: flex;
+    flex-direction: column;
+    font-size: 2.8em;
+    line-height: 1.3em;
+}
+
+.home_nav_links {
+    opacity: 40%;
+}
+
+.home_nav_links:hover {
+    opacity: 100%;
+}
+

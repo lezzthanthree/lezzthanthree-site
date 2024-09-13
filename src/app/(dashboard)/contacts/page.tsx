@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
 
-export default function Blogs() {
-    return <>Blogs</>;
+export default function Contacts() {
+    return <>Contacts</>;
 }
