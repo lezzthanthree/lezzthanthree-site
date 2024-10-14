@@ -1,4 +1,4 @@
-import "../../../styles/globals.scss";
+import "@styles/globals.scss";
 import Navigation from "@/components/Navigation";
 
 export default function Layout({
